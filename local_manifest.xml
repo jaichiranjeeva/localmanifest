@@ -32,8 +32,8 @@
   <remove-project name="build_make" />
   <remove-project name="packages_apps_Settings" />
   <remove-project name="system_core" />
-  <remove-project name="platform_packages_apps_ManagedProvisioning" />
-  <remove-project name="platform_external_robolectric-shadows" />
+  <remove-project name="packages_apps_ManagedProvisioning" />
+  <remove-project name="external_robolectric-shadows" />
   <remove-project name="hardware_nxp_nfc" />
 	
   <project path="frameworks/av" name="frameworks_av" remote="spark-11" />
