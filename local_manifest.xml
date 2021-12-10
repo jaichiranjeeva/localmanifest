@@ -32,9 +32,9 @@
   <remove-project name="build_make" />
   <remove-project name="packages_apps_Settings" />
   <remove-project name="system_core" />
-  <remove-project name="packages_apps_ManagedProvisioning" />
-  <remove-project name="external_robolectric-shadows" />
-  <remove-project name="hardware_nxp_nfc" />
+  <!--<remove-project name="packages_apps_ManagedProvisioning" />
+  <remove-project name="external_robolectric-shadows" /> -->
+  <remove-project name="hardware_nxp_nfc" /> 
 	
   <project path="frameworks/av" name="frameworks_av" remote="spark-11" />
   <project path="frameworks/base" name="frameworks_base" remote="spark-11" />
@@ -43,8 +43,7 @@
   <project path="build/make" name="build_make" remote="spark-11" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="spark-11" />
   <project path="system/core" name="system_core" remote="spark-11" />
-  <project path="packages/apps/ManagedProvisioning" name="packages_apps_ManagedProvisioning" remote="spark-11" />
-  <project path="external/robolectric-shadows" name="external_robolectric-shadows" remote="spark-11" />
-  <project path="external/robolectric-shadows" name="external_robolectric-shadows" remote="spark-11" />
+  <!-- <project path="packages/apps/ManagedProvisioning" name="packages_apps_ManagedProvisioning" remote="spark-11" />
+  <project path="external/robolectric-shadows" name="external_robolectric-shadows" remote="spark-11" /> -->
   <project path="hardware/nxp/nfc" name="platform_hardware_nxp_nfc" remote="spark-11" />
   </manifest>
