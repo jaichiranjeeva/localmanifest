@@ -21,7 +21,7 @@
   <project path="hardware/qcom-caf/msm8998/audio" name="platform_hardware_qcom_audio" remote="jai" revision="12.x-caf-msm8998" />
   
   
-  <project path="device/asus/X00TD" name="device_asus-X00TD" remote="jai" revision="spark"/>
+  <project path="device/asus/X00TD" name="device_asus-X00TD" remote="jai" revision="temp"/>
   <project path="kernel/asus/sdm660" name="kernel_asus_sdm660" remote="pkm" revision="master" /> 
   <project path="vendor/asus" name="vendor_asus_X00TD" remote="jai" revision="11"/>
 	
